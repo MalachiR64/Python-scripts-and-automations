@@ -1,11 +1,13 @@
 from datetime import datetime
 import pyuac
 
-endTime = datetime()
+endTime = datetime(2023,10,10)
 
 # type the website to block
 #site_to_block = ['www.WebsiteName','WebsiteName' ]
-site_to_block = []
+site_to_block = ['www.faceboook.com' , 'faceboook.com']
+
+
 
 #for mac
 hostPathM= r"/etc/host"
