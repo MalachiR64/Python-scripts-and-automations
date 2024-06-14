@@ -5,7 +5,7 @@ This repository contains a collection of Python scripts for various automation t
 ## Table of Contents
 - Scripts
     - [Website Blocker](./WebsiteBlocker)
-    - [College GPA Calculator](./CollegeGpaCalculator)
+    - [College GPA Calculator](./CollegeGPACalculator)
 
 ## Scripts
 
